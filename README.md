@@ -4,6 +4,9 @@ To collect the video data, smartphone: iPhone 11, was utilized to capture the vi
 ## Model framework for exceptional action detection
 ![[image](model framework.png)](https://github.com/johnnyaj3/exceptional-action/blob/main/model%20framework.png)
 
+For understanding more detailly.
+![[image](model framework for visualization.png)](https://github.com/johnnyaj3/exceptional-action/blob/main/model%20framework%20for%20visualization.png)
+
 
 ## Code for framework
 In this research, an Entropy Signal Clustering (ESC) was proposed to detect the exceptional actions from a video in "worker_dataset" folder.
