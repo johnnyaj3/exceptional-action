@@ -2,7 +2,7 @@
 ## Data Using
 To collect the video data, smartphone: iPhone 11, was utilized to capture the video of action as 30 frames per second (FPS) and in the resolution of 1920×1080. The file contains 9 different video clips collected. Video (1) to (3) demonstrate the repeated wiping action by three different people. The differences of the three videos are the speed of wiping, the size of human body shape of the three people and the times of the action executed. Video (4) to (9) simulate the actions behavior in a general working environment, such as assembling carts, screwing, hammering, loading carts and touching button. Each video clip has different range of interested (ROI) and different executing time of each action. The exceptional actions conducted in video (4) to (9) were the behaviors of intentionally stopping, drinking water, resting, stretching the arm and so on to present the real-world field operating.
 ## Model framework for exceptional action detection
-![image](model framework.png)
+![[image](model framework.png)](https://github.com/johnnyaj3/exceptional-action/blob/main/model%20framework.png)
 
 
 ## Code for framework
